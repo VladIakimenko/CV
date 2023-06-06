@@ -14,3 +14,5 @@
 
 ![Certificate 8](certificates/certificates-8.png)
 
+![Certificate 9](certificates/certificates-9.png)
+
